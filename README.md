@@ -1,5 +1,5 @@
 # CMML - Clustered Multi-Metric Learning
-An efficient method for clustered multi-metric learning
+[An efficient method for clustered multi-metric learning](https://doi.org/10.1016/j.ins.2018.08.055)
 
 CMML contains the implementation of Clustered Multi-Metric Learning. 
 For any question, please contact [Bac Nguyen](mailto:Bac.NguyenCong@ugent.be).
